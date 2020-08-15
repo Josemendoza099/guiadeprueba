@@ -1,0 +1,451 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <display-name lang="es">Canal 2 de México (Canal Las Estrellas - XEW)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_las_estrellas-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal HBO 2 (México)">
+    <display-name lang="es">Canal HBO 2 (México)</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/hbo_2_latinoamerica-mediano.png" />
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20200815010000 -0500" stop="20200815043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200815043000 -0500" stop="20200815050000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Especial de R.T.C</title>
+  </programme>
+  <programme start="20200815050000 -0500" stop="20200815060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Paid Programing</title>
+  </programme>
+  <programme start="20200815060000 -0500" stop="20200815071500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200815071500 -0500" stop="20200815091500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La guerra de los pasteles</title>
+  </programme>
+  <programme start="20200815091500 -0500" stop="20200815110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vestidas y alborotadas</title>
+  </programme>
+  <programme start="20200815110000 -0500" stop="20200815130000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya</title>
+  </programme>
+  <programme start="20200815130000 -0500" stop="20200815151500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El gendarme desconocido</title>
+  </programme>
+  <programme start="20200815151500 -0500" stop="20200815170000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Bailando por un sueño</title>
+  </programme>
+  <programme start="20200815170000 -0500" stop="20200815190000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200815190000 -0500" stop="20200815210000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Premios Juventud</title>
+  </programme>
+  <programme start="20200815210000 -0500" stop="20200815230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Sin miedo a la verdad</title>
+  </programme>
+  <programme start="20200815230000 -0500" stop="20200816000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200816000000 -0500" stop="20200816003000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Noche</title>
+  </programme>
+  <programme start="20200816003000 -0500" stop="20200816023000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816023000 -0500" stop="20200816060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200816060000 -0500" stop="20200816071500 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Papá soltero</title>
+  </programme>
+  <programme start="20200816071500 -0500" stop="20200816090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El Santo vs La Tigresa</title>
+  </programme>
+  <programme start="20200816090000 -0500" stop="20200816110000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La niña de la mochila azul</title>
+  </programme>
+  <programme start="20200816110000 -0500" stop="20200816120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Más Deporte En Vivo</title>
+  </programme>
+  <programme start="20200816120000 -0500" stop="20200816140000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Canela</title>
+  </programme>
+  <programme start="20200816140000 -0500" stop="20200816150000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Acción</title>
+  </programme>
+  <programme start="20200816150000 -0500" stop="20200816160000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Nosotros los guapos</title>
+  </programme>
+  <programme start="20200816160000 -0500" stop="20200816183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Sube y baja</title>
+  </programme>
+  <programme start="20200816183000 -0500" stop="20200816193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">100 mexicanos dijieron</title>
+  </programme>
+  <programme start="20200816193000 -0500" stop="20200816210000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200816210000 -0500" stop="20200816230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200816230000 -0500" stop="20200817000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Jugada</title>
+  </programme>
+  <programme start="20200817000000 -0500" stop="20200817011000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Clío TV</title>
+  </programme>
+  <programme start="20200817011000 -0500" stop="20200817043000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200817050000 -0500" stop="20200817060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200817060000 -0500" stop="20200817063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200817063000 -0500" stop="20200817080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200817080000 -0500" stop="20200817090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200817090000 -0500" stop="20200817120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200817120000 -0500" stop="20200817133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200817133000 -0500" stop="20200817143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El Juego de las Estrellas</title>
+  </programme>
+  <programme start="20200817143000 -0500" stop="20200817163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200817163000 -0500" stop="20200817173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200817173000 -0500" stop="20200817183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200817183000 -0500" stop="20200817193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200817193000 -0500" stop="20200817203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200817203000 -0500" stop="20200817213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200817213000 -0500" stop="20200817223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200817223000 -0500" stop="20200817230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200817230000 -0500" stop="20200817233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">40 y 20</title>
+  </programme>
+  <programme start="20200817233000 -0500" stop="20200818000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200818050000 -0500" stop="20200818053000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Infomerciales</title>
+  </programme>
+  <programme start="20200818053000 -0500" stop="20200818060000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Farmacias de similares</title>
+  </programme>
+  <programme start="20200818060000 -0500" stop="20200818063000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Las noticias En Vivo</title>
+  </programme>
+  <programme start="20200818063000 -0500" stop="20200818080000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Despierta En Vivo</title>
+  </programme>
+  <programme start="20200818080000 -0500" stop="20200818090000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Al Aire con Paola Rojas En Vivo</title>
+  </programme>
+  <programme start="20200818090000 -0500" stop="20200818120000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Hoy En Vivo</title>
+  </programme>
+  <programme start="20200818120000 -0500" stop="20200818133000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Cuentamelo Ya! En Vivo</title>
+  </programme>
+  <programme start="20200818133000 -0500" stop="20200818143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Recuerda y Gana</title>
+  </programme>
+  <programme start="20200818143000 -0500" stop="20200818163000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Corona de Lágrimas</title>
+  </programme>
+  <programme start="20200818163000 -0500" stop="20200818173000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Soy tu dueña</title>
+  </programme>
+  <programme start="20200818173000 -0500" stop="20200818183000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Como dice el dicho</title>
+  </programme>
+  <programme start="20200818183000 -0500" stop="20200818193000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Esta historia me suena</title>
+  </programme>
+  <programme start="20200818193000 -0500" stop="20200818203000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La Rosa de Guadalupe</title>
+  </programme>
+  <programme start="20200818203000 -0500" stop="20200818213000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">La mexicana y el güero</title>
+  </programme>
+  <programme start="20200818213000 -0500" stop="20200818223000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">El dragón</title>
+  </programme>
+  <programme start="20200818223000 -0500" stop="20200818230000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">En Punto Denise Maerker En Vivo</title>
+  </programme>
+  <programme start="20200818230000 -0500" stop="20200818233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Simón dice</title>
+  </programme>
+  <programme start="20200818233000 -0500" stop="20200819000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Contacto deportivo En Vivo</title>
+  </programme>
+  <programme start="20200819133000 -0500" stop="20200819143000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Minuto para ganar VIP</title>
+  </programme>
+  <programme start="20200819230000 -0500" stop="20200820000000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Tercer Grado</title>
+  </programme>
+  <programme start="20200820230000 -0500" stop="20200820233000 -0500" channel="Canal 2 de México (Canal Las Estrellas - XEW)">
+    <title lang="es">Renta Congelada</title>
+  </programme>
+  <programme start="20200815014000 -0500" stop="20200815041000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El Jilguero</title>
+  </programme>
+  <programme start="20200815041000 -0500" stop="20200815062000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Expiación, deseo y pecado</title>
+  </programme>
+  <programme start="20200815062000 -0500" stop="20200815080500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Pie Pequeño</title>
+  </programme>
+  <programme start="20200815080500 -0500" stop="20200815112000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">King Kong</title>
+  </programme>
+  <programme start="20200815112000 -0500" stop="20200815122500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Perry Mason</title>
+  </programme>
+  <programme start="20200815122500 -0500" stop="20200815132500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La unidad</title>
+  </programme>
+  <programme start="20200815132500 -0500" stop="20200815153000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Una Esposa de Mentira</title>
+  </programme>
+  <programme start="20200815153000 -0500" stop="20200815174000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Shakira in concert El Dorado</title>
+  </programme>
+  <programme start="20200815174000 -0500" stop="20200815192000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Angry Birds 2: La película</title>
+  </programme>
+  <programme start="20200815192000 -0500" stop="20200815211000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Te Atrapé</title>
+  </programme>
+  <programme start="20200815211000 -0500" stop="20200815220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Batwoman</title>
+  </programme>
+  <programme start="20200815220000 -0500" stop="20200816001000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Downton Abbey</title>
+  </programme>
+  <programme start="20200816001000 -0500" stop="20200816015500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">De noche con Kate</title>
+  </programme>
+  <programme start="20200816015500 -0500" stop="20200816033500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Al ritmo del corazón</title>
+  </programme>
+  <programme start="20200816033500 -0500" stop="20200816050500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Stalked by my doctor 4</title>
+  </programme>
+  <programme start="20200816050500 -0500" stop="20200816064000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La boda del señor Darcy</title>
+  </programme>
+  <programme start="20200816064000 -0500" stop="20200816085500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20200816085500 -0500" stop="20200816110000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20200816110000 -0500" stop="20200816135000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Había una vez en Hollywood</title>
+  </programme>
+  <programme start="20200816135000 -0500" stop="20200816160500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Shazam</title>
+  </programme>
+  <programme start="20200816160500 -0500" stop="20200816175500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El Alma de la Fiesta</title>
+  </programme>
+  <programme start="20200816175500 -0500" stop="20200816200000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Locamente Millonarios</title>
+  </programme>
+  <programme start="20200816200000 -0500" stop="20200816220500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20200816220500 -0500" stop="20200816235000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Regresa a Mí</title>
+  </programme>
+  <programme start="20200816235000 -0500" stop="20200817020500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20200817235000 -0500" stop="20200818020500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20200818020500 -0500" stop="20200818034000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20200818034000 -0500" stop="20200818053000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Mala educación</title>
+  </programme>
+  <programme start="20200818053000 -0500" stop="20200818073500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Apóyate en mí</title>
+  </programme>
+  <programme start="20200818073500 -0500" stop="20200818091500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Pie Pequeño</title>
+  </programme>
+  <programme start="20200818091500 -0500" stop="20200818112000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Shakira in concert El Dorado</title>
+  </programme>
+  <programme start="20200818112000 -0500" stop="20200818130500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Al ritmo del corazón</title>
+  </programme>
+  <programme start="20200818130500 -0500" stop="20200818151500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Downton Abbey</title>
+  </programme>
+  <programme start="20200818151500 -0500" stop="20200818173000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La Momia Regresa</title>
+  </programme>
+  <programme start="20200818173000 -0500" stop="20200818191500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Zombieland: Tiro de Gracia</title>
+  </programme>
+  <programme start="20200818191500 -0500" stop="20200818210000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La monja</title>
+  </programme>
+  <programme start="20200818210000 -0500" stop="20200818220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Lovecraft Country</title>
+  </programme>
+  <programme start="20200818220000 -0500" stop="20200819003500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20200819003500 -0500" stop="20200819022500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La Rebelión</title>
+  </programme>
+  <programme start="20200819022500 -0500" stop="20200819042000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Los Ángeles de Charlie 2</title>
+  </programme>
+  <programme start="20200819042000 -0500" stop="20200819063000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Elizabeth</title>
+  </programme>
+  <programme start="20200819063000 -0500" stop="20200819081000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Los calienta bancas 2</title>
+  </programme>
+  <programme start="20200819081000 -0500" stop="20200819101500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Spider-Man: Un Nuevo Universo</title>
+  </programme>
+  <programme start="20200819101500 -0500" stop="20200819122000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20200819122000 -0500" stop="20200819131000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Batwoman</title>
+  </programme>
+  <programme start="20200819131000 -0500" stop="20200819150000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Miss Bala: Sin Piedad</title>
+  </programme>
+  <programme start="20200819150000 -0500" stop="20200819171000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Guasón</title>
+  </programme>
+  <programme start="20200819171000 -0500" stop="20200819191500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Una Esposa de Mentira</title>
+  </programme>
+  <programme start="20200819191500 -0500" stop="20200819210000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Te Atrapé</title>
+  </programme>
+  <programme start="20200819210000 -0500" stop="20200819220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La unidad</title>
+  </programme>
+  <programme start="20200819220000 -0500" stop="20200820000500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20200820220000 -0500" stop="20200821000500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Ángeles de Charlie</title>
+  </programme>
+  <programme start="20200821000500 -0500" stop="20200821015500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Miss Bala: Sin Piedad</title>
+  </programme>
+  <programme start="20200821015500 -0500" stop="20200821035000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20200821035000 -0500" stop="20200821052000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Karma</title>
+  </programme>
+  <programme start="20200821052000 -0500" stop="20200821065200 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20200821065200 -0500" stop="20200821092500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20200821092500 -0500" stop="20200821112000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Fuera de la ley</title>
+  </programme>
+  <programme start="20200821112000 -0500" stop="20200821131500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Policias de repuesto</title>
+  </programme>
+  <programme start="20200821131500 -0500" stop="20200821155000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">El Jilguero</title>
+  </programme>
+  <programme start="20200821155000 -0500" stop="20200821174500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Halloween</title>
+  </programme>
+  <programme start="20200821174500 -0500" stop="20200821202000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Doctor Sueño</title>
+  </programme>
+  <programme start="20200821202000 -0500" stop="20200821220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La monja</title>
+  </programme>
+  <programme start="20200821220000 -0500" stop="20200822001500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Shazam</title>
+  </programme>
+  <programme start="20200822001500 -0500" stop="20200822020500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Fuera de la ley</title>
+  </programme>
+  <programme start="20200822020500 -0500" stop="20200822030500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Lovecraft Country</title>
+  </programme>
+  <programme start="20200822030500 -0500" stop="20200822043500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Te amo hasta la muerte</title>
+  </programme>
+  <programme start="20200822043500 -0500" stop="20200822061000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Un instante en Nueva York</title>
+  </programme>
+  <programme start="20200822061000 -0500" stop="20200822080000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Regresa a Mí</title>
+  </programme>
+  <programme start="20200822080000 -0500" stop="20200822100500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Una Esposa de Mentira</title>
+  </programme>
+  <programme start="20200822100500 -0500" stop="20200822122000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20200822122000 -0500" stop="20200822142500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Spider-Man: Un Nuevo Universo</title>
+  </programme>
+  <programme start="20200822142500 -0500" stop="20200822151500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Batwoman</title>
+  </programme>
+  <programme start="20200822151500 -0500" stop="20200822161500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La unidad</title>
+  </programme>
+  <programme start="20200822161500 -0500" stop="20200822180500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Regresa a Mí</title>
+  </programme>
+  <programme start="20200822180500 -0500" stop="20200822200500 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Desconocido</title>
+  </programme>
+  <programme start="20200822200500 -0500" stop="20200822220000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">La Rebelión</title>
+  </programme>
+  <programme start="20200822220000 -0500" stop="20200823001000 -0500" channel="Canal HBO 2 (México)">
+    <title lang="es">Guasón</title>
+  </programme>
+</tv>
